@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "62767f45_bde85200",
+        "filename": "Maven_FMI-Project/src/main/java/com/maven/fmi/Maven_FMI_Project/App.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1011038
+      },
+      "writtenOn": "2017-04-22T10:46:15Z",
+      "side": 1,
+      "message": "Метода е коректен и работи добре.",
+      "revId": "a7ee5191488b2801df36a5b95734111b1b8231e3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
