@@ -15,8 +15,18 @@ public class App
     	System.out.println("method two made by Doncho");
     }
     
+<<<<<<< Upstream, based on donchoBranch
     public void changeOne(){
     	System.out.println("method two made by Doncho");
+=======
+
+    public void newMethod(){
+    	System.out.println("new method made by Doncho");
+    }
+    
+    public void methodTwo(){
+    	System.out.println("new method made by Doncho");
+>>>>>>> e609ce0 commit 3
     }
 
 }
