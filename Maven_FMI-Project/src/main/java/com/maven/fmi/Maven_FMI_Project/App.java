@@ -21,7 +21,7 @@ public class App
     }
     
     public void methodTwo(){
-    	System.out.println("method two made by Doncho");
+    	
     }
 
 }
