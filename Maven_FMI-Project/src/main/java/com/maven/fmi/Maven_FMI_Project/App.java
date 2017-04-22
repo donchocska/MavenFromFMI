@@ -12,7 +12,7 @@ public class App
     }
     
     public void change(){
-    	System.out.println("change  made by Doncho");
+    	System.out.println("method two made by Doncho");
     }
 
 }
