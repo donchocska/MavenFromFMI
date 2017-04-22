@@ -18,4 +18,8 @@ public class App
     public void newMethod(){
     	System.out.println("new method made by Doncho");
     }
+    
+    public void methodTwo(){
+    	System.out.println("method two made by Doncho");
+    }
 }
