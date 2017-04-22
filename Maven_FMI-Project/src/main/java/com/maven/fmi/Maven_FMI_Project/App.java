@@ -14,4 +14,8 @@ public class App
     public void change(){
     	System.out.println("change made by Doncho");
     }
+    
+    public void newMethod(){
+    	System.out.println("new method made by Doncho");
+    }
 }
