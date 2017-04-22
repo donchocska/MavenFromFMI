@@ -10,4 +10,8 @@ public class App
     {
         System.out.println( "Doncho Branch !!!" );
     }
+    
+    public void change(){
+    	System.out.println("change made by Doncho");
+    }
 }
